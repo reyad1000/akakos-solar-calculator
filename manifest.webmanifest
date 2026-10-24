@@ -1,6 +1,7 @@
 {
  "name": "AKAKOS Solar Calculator",
  "short_name": "AKAKOS Solar",
+ "description": "Solar PV + battery sizing and professional offers by AKAKOS Renewable Energies.",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
@@ -8,6 +9,10 @@
  "theme_color": "#0F2C4C",
  "lang": "en",
  "dir": "auto",
+ "categories": [
+  "business",
+  "utilities"
+ ],
  "icons": [
   {
    "src": "icon-192.png",
@@ -17,8 +22,13 @@
   {
    "src": "icon-512.png",
    "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512-maskable.png",
+   "sizes": "512x512",
    "type": "image/png",
-   "purpose": "any maskable"
+   "purpose": "maskable"
   }
  ]
 }
