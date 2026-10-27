@@ -12,4 +12,4 @@ Single-file bilingual (EN/AR) solar PV + battery sizing & offer tool by AKAKOS R
    (installs like an app, full screen). On Android: Chrome → ⋮ → **Add to Home screen**.
 4. To release a new version: replace `index.html` only (keep the same name) → clients get it on next open.
 
-Build: V7.1 WEB (PDF libraries embedded — PDF/WhatsApp/Email offers work with no external downloads).
+Build: V7.2 WEB (PDF libraries embedded — PDF/WhatsApp/Email offers work with no external downloads).
